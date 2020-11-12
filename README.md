@@ -18,7 +18,7 @@ Data have been preprocessed to keep only high quality neurons and normalized via
   <img src="Figure/kn_PN_stage.png" height=300 /> 
   <img src="Figure/most_PN_stage.png" height=400/> 
 </p>
-left: knot+ PNs at three pupal stages. Right: most PNs at four stages.
+Left: knot+ PNs at three pupal stages. Right: most PNs at four stages.
 
 # Contact
 Please contact ChiChi at cqxie@stanford.edu for questions.

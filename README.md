@@ -1,5 +1,5 @@
 # FlyPN_development
-Analysis workflow for [Xie et al. 2020](https://www.biorxiv.org/content/10.1101/2020.09.24.312397v1.full)
+Analysis workflow for [Xie et al. 2021](https://elifesciences.org/articles/63450)
 
 This repository contains Jupyter Notebooks that were used to analyze the scRNA-seq data of Drosophila Olfactory Projection Neurons (PN) at 4 different developmental stages.
 
